@@ -1,2 +1,2 @@
 # Auto detect text files and perform LF normalization
-*.txt    diff=win1252
+*.txt    text working-tree-encoding=windows-1252
